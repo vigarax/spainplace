@@ -7,4 +7,5 @@ Instalar extensión de Tampermonkey en:
 - Mozilla Firefox ([fuente](https://addons.mozilla.org/fr/firefox/addon/tampermonkey/))
 
 Abre el script en Tampermonkey ([fuente](https://github.com/vigarax/spainplace/raw/main/spain.user.js))
+
 Actualiza la página en r/place
